@@ -68,4 +68,4 @@ docker run -p 8501:8501 life-os
 📄 Licence
 Ce projet est disponible sous les termes de la licence MIT. Vous êtes entièrement libre de copier, modifier, distribuer et intégrer ce code, y compris dans des projets commerciaux, à l'unique condition d'inclure la mention de copyright originale et de citer l'auteur (C-Lucas-Pro).
 
-Pour consulter l'intégralité du texte légal, veuillez vous référer au fichier LICENSE présent à la racine de ce dépôt.
+Pour consulter l'intégralité du texte légal, veuillez vous référer au fichier 'LICENSE' présent à la racine de ce dépôt.
