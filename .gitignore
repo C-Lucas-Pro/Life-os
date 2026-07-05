@@ -1,0 +1,8 @@
+data/
+credentials.json
+credentials.old.json
+token.json
+client_secrets.json
+__pycache__/
+*.pyc
+.DS_Store
