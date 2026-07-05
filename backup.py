@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 # --- CONFIGURATION ---
-FOLDER_ID = '1YQDvzh6YRlPu636roKO2YqCK81PFWNv_' # <-- Remets bien l'ID de ton dossier Drive ici !
+FOLDER_ID = 'A_modifier' # <-- Remets bien l'ID de ton dossier Drive ici !
 TOKEN_FILE = 'token.json' # Le fichier qu'on vient de générer
 FILES_TO_BACKUP = [
     'data/budget.xlsx',
